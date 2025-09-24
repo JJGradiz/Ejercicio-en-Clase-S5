@@ -1,11 +1,1 @@
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\bin\Debug\Productos.exe.config
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\bin\Debug\Productos.exe
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\bin\Debug\Productos.pdb
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\obj\Debug\Productos.csproj.AssemblyReference.cache
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\obj\Debug\Productos.Form1.resources
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\obj\Debug\Productos.Properties.Resources.resources
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\obj\Debug\Productos.csproj.GenerateResource.cache
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\obj\Debug\Productos.exe
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\obj\Debug\Productos.pdb
-C:\Users\mgmav\OneDrive\Escritorio\Registros\Productos\obj\Debug\Productos.exe.config
+a
