@@ -12,5 +12,17 @@ namespace Productos.Modelos
         public string Nombre { get; set; }  
         public double Precio {  get; set; }
         public Boolean IVA { get; set; }
+        public double Monto{get {
+                if (IVA) { return Precio * 1.15; }
+                return Precio;
+            }
+        }
+
+
+
+
+
+
+
     }
 }

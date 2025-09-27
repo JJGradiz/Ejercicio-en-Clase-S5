@@ -22,11 +22,11 @@ namespace Productos.Dao
             carrito[pos++] = prod;
             }catch(IndexOutOfRangeException)
             {
-                MessageBox.Show("Limite maximo", "Error",
+                MessageBox.Show("Tu mama ya anda en bolas por tu culpa", "Error",
                 MessageBoxButtons.OK, MessageBoxIcon.Error);
 
             }
-        }
+        } 
         public Producto[] VerCarrito()
 
         {
@@ -35,4 +35,3 @@ namespace Productos.Dao
 
     }
 }
-
